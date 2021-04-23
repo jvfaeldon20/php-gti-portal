@@ -1,0 +1,97 @@
+.no-border-radius{
+	border-radius: 0px;
+}
+
+.label-survey{
+	font-weight: lighter;
+	font-size: 16px;
+	min-width: 110px;
+	margin-top: 1px;	
+}
+
+.svy_wellness_name{
+	border: 1px solid #fff;
+	font-weight: lighter;
+	color: #2c9fde;
+	font-size: 16px;
+	margin-left: -20px;
+}
+
+.survey-info{
+	background-color: #5b6a7c;
+	color: #fff;
+}
+
+.btn-survey{
+	color: #fff;
+	margin-left: 2px;
+	background-color: #2ea0df;
+	margin: -5px 0px 5px 0px;
+}
+
+.nav-nav-home{
+	margin-top: -10px;
+	color: #fff;
+}
+
+.modal-title-survey{
+	padding-left: 5px 5px ;
+	color: #fff;
+	background-color: #2c9fde;
+	border-bottom: 4px solid #d7f85d;
+}
+
+.table-hover tbody tr:hover > td {
+  background-color: #dee9f4;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.label-style{
+	font-weight: lighter;
+}
+
+
+.header-survey{
+	background-color: #5b6a7c;
+	color: #fff;
+	font-weight: lighter;
+}
+
+
+input[name="svy_caller_no"]{
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 16px;
+	color: #d7f85d;
+}
+
+input[name="svy_doctor_name"]{
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 16px;
+	color: #d7f85d;
+}
+
+input[name="svy_comment"]{
+	size: 80%;
+}
+
+.survey-question{
+	border-left: 3px solid #2c9fde;
+}
+
+.language2{
+	border: 1px solid #2c9fde;
+	border-radius: 0px;
+}
+
+
+input[type="text"], textarea{
+
+	width: 250px;
+	padding: 3px;
+	border:none;
+}

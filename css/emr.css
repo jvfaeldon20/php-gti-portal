@@ -1,0 +1,441 @@
+.navbar-margin{
+	padding-top: 160px;
+}
+
+.section-right{
+	margin-left: 250px;
+}
+
+.section-left{
+	position: fixed;
+}
+
+.section-right{
+	margin-left: 260px !important;
+}
+
+
+/*LEFT PANEL*/
+.user-photo{
+	width: 160px;
+	height: 160px;
+	margin-left: 30px;
+	border: 5px solid #5b6a7c;
+}
+
+.user-tran-id{
+	margin: 20px 0px 10px 65px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #32383a;
+}
+
+.user-menu{
+	width: 50px;
+	height: 50px;
+}
+
+.user-menu2{
+	width: 50px;
+	height: 50px;
+}
+
+.userimg{
+	margin: 0px 5px 0px 15px;
+}
+
+.user-menu:hover{
+	border: 2px solid #34748F;
+	padding: 1px;
+}
+
+.user-name{
+	color: #509601;
+	font-weight: bold;
+}
+
+.user-role{
+	margin-left: 85px;
+	font-size: 16px;
+
+}
+/*END OF LEFT PANEL*/
+
+
+/*RIGHT PANEL*/
+.border-left{
+	border-left:2px solid #34748F;
+	margin: 0px 10px 0px 0px;
+}
+
+.well-bg{
+	background-color: #5b6a7c;
+	border-radius: 0px;
+	height: 40px;
+	color: #fff;
+	font-weight: lighter;
+	font-size: 16px;
+}
+
+
+.label-width{
+	min-width: 150px;
+
+}
+
+.label-width-condition{
+	min-width: 100px;
+}
+
+.label-width-condition-eadd{
+}
+
+
+
+.label-emr{
+	font-weight: lighter;
+}
+
+.input-group-addon{
+	background-color:  #c7c1c1;
+	color: #fff;
+	border-radius: 0px;
+}
+
+input[type=text]{
+	border-radius: 0px;
+
+}
+
+textarea{
+	min-height: 120px;
+	min-width: 100%;
+	resize: none;
+	border-radius: 0px;
+}
+
+.no-border-radius{
+	border-radius: 0px;
+}
+
+.col-md-8{
+	width: 830px;
+	margin: 0px auto;
+	padding: 0px auto;
+}
+
+
+.box-model{
+	max-height: 300px;
+	overflow-y: scroll;
+
+}
+
+
+.box-model-1{
+	max-height: 200px;
+	overflow-y: scroll;
+
+}
+
+.box-modelg{
+	max-height: 250px;
+	overflow-y: scroll;
+
+}
+
+.wrap{
+	width: 20px;
+}
+
+
+.hidden{
+	display:none;
+}
+
+tr{
+	white-space: nowrap;
+}
+
+option{
+	display: inline-block;
+}
+
+.btn-emr{
+	color: #fff;
+	background-color: #2c9fde;
+}
+
+/*type on input disabled */
+textarea{
+	min-height: 120px;
+	min-width: 100%;
+	resize: none;
+}
+
+.textarea-symptoms{
+	min-width: 97%;
+}
+
+input[name=sales_program]{
+	pointer-events: none;
+}
+
+input[name=municipality]{
+	pointer-events: none;
+}
+
+input[name=service_call]{
+	pointer-events: none;
+}
+
+input[name=icd_code]{
+	pointer-events: none;
+}
+
+input[name=icd_description]{
+	pointer-events: none;
+}
+
+input[name=chief_complaint]{
+	pointer-events: none;
+}
+
+.concern, .satisfaction, .type{
+	margin:0px 10px;
+
+}
+
+.glyphicon.glyphicon-modal-window{
+	font-size: 15px;
+}
+
+
+/* for disable */
+
+input[name=plan]{
+	pointer-events: none;
+	border-color: #fff;
+
+}
+
+input[name=cday]{
+	pointer-events: none;
+	border-color: #fff;
+}
+
+input[name=ctime]{
+	pointer-events: none;
+	border-color: #fff;
+}
+
+input[name=caller_bracket_age]{
+	pointer-events: none;
+	border-color: #fff;
+}
+
+input[name=patient_bracket_age]{
+	pointer-events: none;
+	border-color: #fff;
+}
+
+input[name=record_id]{
+	pointer-events: none;
+	border-color: #fff;
+}
+
+input[name=shift]{
+	pointer-events: none;
+	border-color: #fff;
+}
+input[name=cdate]{
+	pointer-events: none;
+	border-color: #fff;
+}
+input[name=country]{
+	pointer-events: none;
+	border-color: #fff;
+}
+
+input[name=province]{
+	pointer-events: none;
+	border-color: #fff;
+}
+
+input[name=zip_code]{
+	pointer-events: none;
+	border-color: #fff;
+}
+input[name=region]{
+	pointer-events: none;
+	border-color: #fff;
+}
+
+input[name=survey_status]{
+	pointer-events: none;
+	border-color: #fff;
+
+}
+
+.disclaimer{
+	font-weight: lighter;
+}
+
+.sms_message_2{
+	display: none !important;
+}
+
+.vital{
+	min-width: 150px;
+	margin-right: 10px;
+	width: 45% !important;
+}
+
+.bs{
+	width: 55% !important;
+}
+
+.bs_eadd{
+	width: 50% !important;
+}
+
+.pmh{
+	min-width: 150px;
+	margin-right: 10px;
+	width: 54% !important;
+}
+
+.vital_chk{
+	margin: 0px 5px 0px 0px !important;
+}
+
+.dropdown-menu{
+	margin-top: 30px;
+}
+
+.open > .dropdown-menu {
+	margin-top: 6rem !important;
+}
+
+.btn-pd{
+	margin: 0px 3px !important;
+}
+/*END OF RIGHT PANEL*/
+
+
+/*MODAL*/
+
+
+.modal-title-icd{
+	padding-left: 5px 5px ;
+	color: #fff;
+	background-color: #2c9fde;
+	border-bottom: 4px solid #d7f85d;
+}
+
+.modal-title-symptoms{
+	padding-left: 5px 5px ;
+	color: #fff;
+	background-color: #2c9fde;
+	border-bottom: 4px solid #d7f85d;
+}
+
+.modal-title-service_call{
+	padding-left: 5px 5px ;
+	color: #fff;
+	background-color: #2c9fde;
+	border-bottom: 4px solid #d7f85d;
+}
+
+.modal-title-sales_program{
+	padding-left: 5px 5px ;
+	color: #fff;
+	background-color: #2c9fde;
+	border-bottom: 4px solid #d7f85d;
+}
+
+.header-users{
+	background-color: #5b6a7c;
+	color: #fff;
+	font-weight: lighter;
+}
+/*END OF MODAL*/
+
+
+/*MODAL SUMMARY*/
+.custom-logo{
+	margin: 20px 0px 0px 180px;
+}
+
+
+.label-format2{
+	border:0px;
+	padding: 2px 0px;
+	font-weight: lighter;
+}
+
+.label-format3{
+	border:0px;
+	padding: 3px 0px;
+	font-weight: lighter;
+
+}
+
+.mr{
+	margin-top: 10px;
+	margin-bottom: 100px;
+}
+
+
+input[name=sum_caller_name]{
+	pointer-events: none;
+	color: #34748F;
+}
+
+input[name=sum_called_in_sick]{
+	pointer-events: none;
+	color: #34748F;
+}
+
+input[name=sum_is_name]{
+	pointer-events: none;
+	color: #34748F;
+}
+
+input[name=sum_chief_complaint]{
+	pointer-events: none;
+	color: #34748F;
+}
+
+input[name=sum_disease_type]{
+	pointer-events: none;
+	color: #34748F;
+}
+
+input[name=sum_disease]{
+	pointer-events: none;
+	color: #34748F;
+}
+
+textarea[name=sum_notes]{
+	color: #34748F;
+	overflow-y: 
+}
+
+/*END OF MODAL SUMMARY*/
+
+/*NAVIGATION*/
+.nav-fixed{
+	position: fixed;
+	z-index: 1;
+}
+
+.navbar-base{
+	background-color: #fff;
+}
+
+
+/*GENERAL*/
+.form-control{
+	margin: 1px 0px !important;
+}
